@@ -28,4 +28,4 @@ Follow these steps to complete tasks:
    ```
    npm run dev
    ```
-  --> This will start the server on localhost:3000
+  --> This will start the server on localhost:5173
