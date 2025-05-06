@@ -1,6 +1,6 @@
 # futuredev-react-prac
 
-This project is a simple example of how components work in React. This app was built with CRA. 
+This project is a simple example of how components work in React. This app was built with Vite. 
 
 ## TODO
 
@@ -26,6 +26,6 @@ Follow these steps to complete tasks:
    ```
 4. Start the development server
    ```
-   npm start
+   npm run dev
    ```
   --> This will start the server on localhost:3000
