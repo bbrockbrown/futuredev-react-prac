@@ -5,7 +5,8 @@ This project is a simple example of how components work in React. This app was b
 ## TODO
 
 - Make 1 component that accepts some sort of props
-- 
+- One use of useState that has a meaningful impact on site
+- One use of useEffect, can be simple
 
 ## Getting Started
 
@@ -13,7 +14,7 @@ Follow these steps to complete tasks:
 
 1. Clone the repository
    ```
-  
+   git clone https://github.com/bbrockbrown/futuredev-react-prac.git
    ```
 2. Navigate to the project directory
    ```
